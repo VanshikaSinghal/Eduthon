@@ -63,6 +63,7 @@
 
 
 
+<p align="center"><img src="https://github.com/SanchitaMishra170676/Eduthon/blob/master/Addhyan/Images/team.png" width="300"/></p>
 
 
 
