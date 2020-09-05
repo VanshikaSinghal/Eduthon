@@ -29,3 +29,12 @@
 
 - Understanding concepts better with the help of Augmented Reality models and diagrams.
 
+## PROPOSED TECH-STACK
+- FRONTEND                         : HTML, CSS3, Bootstrap4, JavaScript, JQuery
+- BACKEND 	                       : Firebase
+- AUGMENTED REALITY                : echoAR
+- EDITORS                          : Atom, Visual Studio Code
+
+
+
+
