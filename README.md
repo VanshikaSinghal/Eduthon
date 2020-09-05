@@ -45,6 +45,16 @@
 - AUGMENTED REALITY                : echoAR
 - EDITORS                          : Atom, Visual Studio Code
 
+## CHALLENGES FACED
+- The biggest challenge in front of of us was to design a platform to provide secure examination for the students. 
+
+- Cause being a student, we ourselves are aware , of the ways in which we can indulge ourselves in wrong practices.
+
+- Finally we ended up deciding the features of screen sharing  and webcam streaming while examination. Adding, this kind of feature can be easily accessed by students and teachers of all domain. 
+
+
+
+
 
 
 
