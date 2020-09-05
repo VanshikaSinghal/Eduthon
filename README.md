@@ -29,6 +29,16 @@
 
 - Understanding concepts better with the help of Augmented Reality models and diagrams.
 
+## UNIQUE SELLING POINTS 
+- Unlike other platforms Addhyan is a fully equipped platform for the students and faculties, which could be tailor made as per the demand of the institutions. 
+
+- Features as in CR role in the conference have been designed keeping in mind that the teachers are not much used to dealing with the technologies as compared to students.
+
+- The Secure Examination platform is a simple solution to the existing problem of plagiarism.
+
+- Counselling choice provided to the students would decrease the mental health issues and also clearing the clout around it.
+
+
 ## PROPOSED TECH-STACK
 - FRONTEND                         : HTML, CSS3, Bootstrap4, JavaScript, JQuery
 - BACKEND 	                       : Firebase
