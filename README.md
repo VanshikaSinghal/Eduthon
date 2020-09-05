@@ -52,6 +52,14 @@
 
 - Finally we ended up deciding the features of screen sharing  and webcam streaming while examination. Adding, this kind of feature can be easily accessed by students and teachers of all domain. 
 
+## FUTURE PLANS
+- Addhyan would possess a Student’s gallery for the students to post their piece of work and achievements.
+
+- We’ve decided to create a leaderboard to praise the students who are leading, and motivating others to come up with their names at the same time.
+
+- A parent’s portal would be added to the application, to monitor the progress of child by their guardians.
+
+- We’re working to make it multi platform, so that it can be easily accessed from anywhere.
 
 
 
