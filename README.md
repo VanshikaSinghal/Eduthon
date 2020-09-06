@@ -16,7 +16,7 @@
 - Lack of resources for assignment submission, practical analysis, experimental demonstration and short conceptual questions are the cons of online education.
 
 ## PROPOSED SOLUTION 
-- CR roles in the classes to help teachers with the technicalities.
+- CR roles in the classes to help the teachers with the technicalities.
 
 - Secure Examination platform by using window sharing and video streaming at the same time, guided by an invigilator.
 
