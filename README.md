@@ -3,6 +3,12 @@
 # QUARANTEAM : [Vanshika Singhal,](https://www.linkedin.com/in/vanshika-singhal-3a4a301a7/ "View Linkdin Profile") [Sakshi Singh,](https://www.linkedin.com/in/sakshi-singh-988b9a1aa/ "View Linkdin Profile") [Sanchita](https://www.linkedin.com/in/sanchita-mishra-1b622a196/ "View Linkdin Profile")
 <p align="center"><img src="https://github.com/SanchitaMishra170676/Eduthon/blob/master/Addhyan/Images/Addhyan.png" width="300"/></p>
 
+<br> <p align="center"> 
+[![Watch the video](https://github.com/SanchitaMishra170676/Eduthon/blob/master/video-ss.PNG)](https://youtu.be/S_dX5EJI1Vc "Watch Complete Video")
+  </p><br>
+
+### [Click on the video or here to watch the Video](https://youtu.be/cbW13DIWewo "Watch Video")
+### [Click here to View PPT](https://docs.google.com/presentation/d/1Y2BkverTYcryBtDfAQ_PJ59f_Hb4QjtwIZkA7hLncWY/edit?usp=sharing "View PPT")
 
 ## PROBLEM STATEMENT
 - While coronavirus continues to spread across the globe, many countries have decided to close schools as part of a social distancing policy, not just affecting the academics but now they are a problem for the emerging minds.
@@ -16,7 +22,7 @@
 - Lack of resources for assignment submission, practical analysis, experimental demonstration and short conceptual questions are the cons of online education.
 
 ## PROPOSED SOLUTION 
-- CR roles in the classes to help the teachers with the technicalities.
+- CR roles in the classes to help teachers with the technicalities.
 
 - Secure Examination platform by using window sharing and video streaming at the same time, guided by an invigilator.
 
