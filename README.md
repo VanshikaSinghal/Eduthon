@@ -7,7 +7,7 @@
 [![Watch the video](https://github.com/SanchitaMishra170676/Eduthon/blob/master/video-ss.PNG)](https://youtu.be/S_dX5EJI1Vc "Watch Complete Video")
   </p><br>
 
-### [Click on the video or here to watch the Video](https://youtu.be/cbW13DIWewo "Watch Video")
+### [Click on the video or here to watch the Video](https://youtu.be/S_dX5EJI1Vc "Watch Video")
 ### [Click here to View PPT](https://docs.google.com/presentation/d/1Y2BkverTYcryBtDfAQ_PJ59f_Hb4QjtwIZkA7hLncWY/edit?usp=sharing "View PPT")
 
 ## PROBLEM STATEMENT
